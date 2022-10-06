@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 My name is **Aditya (Sevenn) Raj Tripathi** 
-###   **[goto github p rofile](https://github.com/TheSevenn "profile")**
+###   **[goto github profile](https://github.com/TheSevenn "profile")**
 - 🔭 I’m currently working on a application management system using MERN stack
 - 🌱 I’m currently learning React Native,Tailwind Css
 - 💬 Ask me about Javascript, React JS, CSS, Node JS
