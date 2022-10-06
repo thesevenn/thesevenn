@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a application management system using MERN stack
-- 🌱 I’m currently learning React Native,Tailwins Css
+- 🌱 I’m currently learning React Native,Tailwind Css
 - 💬 Ask me about ... Javascript, React, CSS
   <!-- - 📫 How to reach me: ...  -->
 - 😄 Pronouns: He/Him
