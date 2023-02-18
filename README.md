@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 My name is **Aditya (Sevenn) Raj Tripathi** 
 ###   **[goto github profile](https://github.com/TheSevenn "profile")**
-- 🔭 I’m currently working on a application management system using MERN stack
+- 🔭 I’m currently working on a tool to help developer and designers with generating color for Web using Next.js and Node js
 - 🌱 I’m currently learning React Native,Tailwind Css
 - 💬 Ask me about Javascript, React JS, CSS, Node JS
   <!-- - 📫 How to reach me: ...  -->
