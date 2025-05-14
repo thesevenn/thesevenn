@@ -4,10 +4,21 @@
 
 Here are some ideas to get you started:
 -->
-### Hi there 👋
-My name is **Aditya (Sevenn) Raj Tripathi** 
-###   **[goto github profile](https://github.com/TheSevenn "profile")**
-  <!-- - 📫 How to reach me: ...  -->
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love video games and Web development the same.
+# Hello there 👋
+### I'm **Aditya (Sevenn) Raj Tripathi**, a design minded Frontend Engineer.
 
+- 😄 Pronouns: He/Him
+
+## 🚀 What I'm Currently Learning
+- **Flutter** - Planning to build some applications
+- **AWS** - Mainly AWS Lambda, S3 and ALBs
+- **FastAPI** - Using to build Phishook API
+
+## ⚒️ I'm Building - Phishook
+A phishing email detection tool using rule-based techniques and lightweight ML.
+
+- ⚙️ Python for Phishook detection system
+- ⏳ FastAPI for Phishook API
+- 📱 React + Tailwind for UI
+- 🧠 Simple rules + Lightweight ML models
+- 📦 Goal: fast, explainable, no-cloud-dependency phishing filter
